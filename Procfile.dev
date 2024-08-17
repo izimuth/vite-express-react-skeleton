@@ -1,0 +1,2 @@
+client: yarn vite
+server: yarn serve
